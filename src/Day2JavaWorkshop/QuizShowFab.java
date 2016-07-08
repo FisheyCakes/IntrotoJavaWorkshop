@@ -10,7 +10,7 @@ public class QuizShowFab {
 		String UserAnswer1 = JOptionPane.showInputDialog("First Question. Dinosaurs are A) Ancestors of Birds"
 				+ "B) Ancestors of reptiles) " + "or C) Delecious.");
 		String A = UserAnswer1;
-		If(UserAnswer1.equals(A));
+		if(UserAnswer1.equals(A));
 		{
 			Score++;
 		}
